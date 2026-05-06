@@ -1,0 +1,5 @@
+payment_method,total_txns,total_gmv_usd,captured_gmv_usd,avg_risk_score
+Card,13,52972.0,34283.0,61.3
+NetBanking,3,15306.0,11709.0,62.7
+UPI,9,34397.5,28527.0,62.4
+Wallet,5,13404.5,7836.5,54.6
